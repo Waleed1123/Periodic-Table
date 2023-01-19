@@ -1,15 +1,27 @@
 body {
-    background-color: rgb(195, 243, 243);
+
     text-align: center;
     font: 1em serif;
     font-size: medium;
+    border-width: 1em;
     
     
     
+}
+* table {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 1px;
+    background-color: rgb(12, 38, 46);
+    border-radius: 5px;
 }
 
 div {
-    background-color: rgb(68, 223, 184);
+    background-color: rgba(132, 255, 224, 0.897);
 }
 
+td {
+    border-radius: 5px;
+    
+    
+}
  
